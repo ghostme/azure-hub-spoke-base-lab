@@ -17,7 +17,8 @@
                 "VpnGw2",
                 "VpnGw3",
                 "VpnGw4",
-                "VpnGw5"
+                "VpnGw5",
+                "VpnGw2AZ"
             ],
             "metadata": {
                 "description": "The SKU for the VPN Gateway. Cannot be Basic SKU."
