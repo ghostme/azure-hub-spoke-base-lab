@@ -69,7 +69,7 @@
         },
         "vpnGatewayGeneration": {
             "type": "string",
-            "defaultValue": "Generation1",
+            "defaultValue": "Generation2",
             "allowedValues": [
                 "Generation1",
                 "Generation2"
