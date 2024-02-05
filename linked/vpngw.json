@@ -11,7 +11,7 @@
         },
         "gatewaySku": {
             "type": "string",
-            "defaultValue": "VpnGw1",
+            "defaultValue": "VpnGw2AZ",
             "allowedValues": [
                 "VpnGw1",
                 "VpnGw2",
