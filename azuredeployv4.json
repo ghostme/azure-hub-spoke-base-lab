@@ -54,7 +54,7 @@
         },
         "gatewaySku": {
             "type": "string",
-            "defaultValue": "VpnGw2AZ"
+            "defaultValue": "VpnGw2AZ",
             "metadata": {
                 "description": "The SKU for the VPN Gateway"
             }
